@@ -11,4 +11,6 @@ function App() {
   );
 }
 
+// escrevendo algo para dar o push no git
+
 export default App;
