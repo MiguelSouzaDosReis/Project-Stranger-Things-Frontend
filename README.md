@@ -1,13 +1,5 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Project Stranger Things Frontend
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+É um projeto para Trybe para ensina a como fazer deploy no heroku de fontend e de backend 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Obs: por motivo que heroku só deixar fazer um deploy de 5 projetos de graça, eu utilizo o cloudflare que deixa fazer deploy de graça por mais projetos por isso o deploy desse site foi utilizando o cloudflare e não o heroku _[Project Stranger Things Frontend](https://project-stranger-things-frontend.pages.dev/)_
